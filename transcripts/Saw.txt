@@ -1,0 +1,1 @@
+ Hello, my name is Pamo and this is a test for movie factory. Today we are testing opening iOS per transcription. If this transcript works, movie factory will be able to automatically understand movies and generate videos. Artificial intelligence is amazing and this project will become something value.
