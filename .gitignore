@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+input_movies/
+transcripts/
+scripts/
+audio/
+clips/
+videos/
+shorts/
+uploads/
+
+*.mp4
+*.mov
+*.mkv
+*.mp3
+*.wav
